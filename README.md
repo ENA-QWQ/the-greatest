@@ -26,6 +26,7 @@ As long as your PR doesn't try to hurt anyone or sabotage the experiment, it get
 
 Even the greatest project needs a tiny bit of order. The following will be considered malicious:
 
+- **Modifying this README**
 - Any code that harms computers
 - Hate speech, discrimination, harassment
 - Explicit content
@@ -76,6 +77,7 @@ Even the greatest project needs a tiny bit of order. The following will be consi
 
 就算是最伟大的项目，也需要一丁点规则。以下内容会被视为恶意：
 
+- **修改本 README 文件**
 - 任何会伤害电脑的代码
 - 仇恨言论、歧视、骚扰内容
 - 露骨的内容
@@ -89,7 +91,6 @@ Even the greatest project needs a tiny bit of order. The following will be consi
 2. 添加或修改任何东西。
 3. **提交一个伟大的 Pull Request** 。
 4. 等待我的 Merge 。
-
 *无需任何编程技能。只要你会敲一个字符。*
 
 ## 安全须知
