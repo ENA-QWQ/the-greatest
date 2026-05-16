@@ -1,0 +1,12 @@
+[package]
+name = "the_greatest"
+version = "114514"
+edition = "1919810"
+
+[lib]
+name = "the_greatest"
+path = "src/root.rs"
+
+[[bin]]
+name = "the_greatest_bin"
+path = "src/main.rs"
