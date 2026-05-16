@@ -1,2 +1,40 @@
 node_modules/
 .DS_Store
+
+# Gradle https://github.com/github/gitignore/blob/main/Gradle.gitignore
+.gradle
+**/build/
+!**/src/**/build/
+# Ignore Gradle GUI config
+gradle-app.setting
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+# Avoid ignore Gradle wrapper properties
+!gradle-wrapper.properties
+# Cache of project
+.gradletasknamecache
+# Eclipse Gradle plugin generated files
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Vim https://github.com/github/gitignore/blob/main/Global/Vim.gitignore
+# Swap
+[._]*.s[a-v][a-z]
+# comment out the next line if you don't need vector files
+!*.svg
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+# Session
+Session.vim
+Sessionx.vim
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
