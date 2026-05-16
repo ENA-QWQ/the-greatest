@@ -1,0 +1,17 @@
+{
+  "name": "the-greatest",
+  "version": "1.0.0",
+  "description": "This will be the greatest project in the world — but we lack a direction, a plan, and any purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"This will be the greatest project in the world — but we lack a direction, a plan, and any purpose.\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ENA-QWQ/the-greatest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ENA-QWQ/the-greatest/issues"
+  },
+  "homepage": "https://github.com/ENA-QWQ/the-greatest#readme"
+}
